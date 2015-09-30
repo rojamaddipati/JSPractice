@@ -1,0 +1,14 @@
+﻿body {
+}
+p {
+    background: yellow;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+  }
+  sp.over {
+     background: #ccc;
+  }
+  span {
+    color: red;
+  }
